@@ -1,4 +1,4 @@
-# Roxane GUELLA
+# Prenom: Roxane, NOM: GUELLA
 
 étudiant en première année BDDI à l'école-by-cci en partenariat avec les gobelins Paris,
 Je recherche un stage puis une altenance qui me permetteront d'appliquer tout ce que j'ai appris
