@@ -1,5 +1,5 @@
 
-![](fond-cookie)
+![](fond-cookie.jpg)
 
 # Roxane GUELLA
 
