@@ -10,3 +10,6 @@ au cours de ma première année !
 <--on détaillera plus tard-->
 ##Mes hobbies
 J'aime le chocolat.
+
+© roxane GUELLA - 2021
+
