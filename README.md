@@ -9,7 +9,7 @@ au cours de ma première année !
 ##Mes études
 -Bachelor BDDI - 2020-2023
 <--on détaillera plus tard-->
-##Mes hobbies
+##Loisirs
 J'aime le chocolat et les jeux vidéo.
 
 © roxane GUELLA - 2021
