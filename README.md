@@ -1,4 +1,5 @@
-# Prenom: Roxane, NOM: GUELLA
+
+# Roxane GUELLA
 
 étudiant en première année BDDI à l'école-by-cci en partenariat avec les gobelins Paris,
 Je recherche un stage puis une altenance qui me permetteront d'appliquer tout ce que j'ai appris
@@ -10,3 +11,6 @@ au cours de ma première année !
 <--on détaillera plus tard-->
 ##Mes hobbies
 J'aime le chocolat.
+
+© roxane GUELLA - 2021
+
